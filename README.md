@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Sahrul Kholikulumam</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Sahrul Kholikul umam</h1>
 <h3 align="center">A passionate Web developer from Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.gifer.com/6M8G.gif">
